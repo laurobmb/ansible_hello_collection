@@ -10,10 +10,10 @@ license:
 license_file: ''
 tags: []
 dependencies: {}
-repository: https://github.com/laurobmb/ansible_statusinvest_collection
-documentation: https://github.com/laurobmb/ansible_statusinvest_collection/docs/
+repository: https://github.com/laurobmb/ansible_hello_collection
+documentation: https://github.com/laurobmb/ansible_hello_collection/docs/
 homepage: https://github.com/laurobmb
-issues: https://github.com/laurobmb/ansible_statusinvest_collection/issues
+issues: https://github.com/laurobmb/ansible_hello_collection/issues
 build_ignore:
 - '*.pyc'
 - galaxy.yml
