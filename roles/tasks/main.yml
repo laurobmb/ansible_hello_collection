@@ -1,0 +1,9 @@
+---
+- name: Usar o módulo Hello Plugin
+  hello.hello_plugin:
+    name: "{{ meu_nome }}"
+  register: hello_result
+
+- name: Exibir saudação
+  debug:
+    var: hello_result.msg
